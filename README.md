@@ -1,4 +1,10 @@
-# Ejercicio 1 de React : Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
+# Practica de React - “Hello World”
+
+_componente que muestre en pantalla el mensaje “Hello World”._
+
+### Demo ⭐
+
+[Ver demo ](https://01react.netlify.app)
 
 # Tecnologias ⚒️
 
@@ -8,11 +14,7 @@
 - JavaScript / React
 - [React-Bootstrap](https://react-bootstrap.github.io/)
 
-## Repositorio💻
-
-```bash
-https://github.com/KameyhaFacundo/01-React
-```
+---
 
 ## Autor 👨‍💻👩‍💻
 
@@ -23,6 +25,6 @@ https://github.com/KameyhaFacundo/01-React
 1. Emilse Arias
 2. Jonathan Plodzien
 
-## Licencia 📄
+---
 
 Copyright (c) 2020 -2023

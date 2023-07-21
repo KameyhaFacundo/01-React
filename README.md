@@ -27,4 +27,4 @@ _componente que muestre en pantalla el mensaje “Hello World”._
 
 ---
 
-Copyright (c) 2020 -2023
+Copyright (c) - 2023
